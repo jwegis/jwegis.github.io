@@ -2,3 +2,5 @@
 hide:
   - navigation
 ---
+
+# Projects
