@@ -1,5 +1,6 @@
 [project]
 site_name = "John Wegis"
+favicon = "assets/images/favicon.svg"
 site_description = "John Wegis personal site"
 site_author = "John Wegis"
 site_url = "https://jwegis.github.io/"
