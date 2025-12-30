@@ -7,7 +7,7 @@ def build():
     print("Building site with Zensical...")
     try:
         # Run zensical build. checking=True raises CalledProcessError on non-zero exit
-        subprocess.run(["uv", "run", "zensical", "build"], check=True)
+        subprocess.run(["uv", "run", "zensical", "build", "--clean"], check=True)
     except subprocess.CalledProcessError as e:
         print(f"Error: Build failed with exit code {e.returncode}")
         sys.exit(e.returncode)
