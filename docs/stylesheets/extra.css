@@ -1,0 +1,7 @@
+/* Humboldt County Redwoods Theme */
+:root > * {
+    --md-primary-fg-color:        #1F6357; /* Humboldt Green */
+    --md-primary-fg-color--light: #448F7F;
+    --md-primary-fg-color--dark:  #14423A;
+    --md-accent-fg-color:         #AB4E52; /* Redwood */
+}

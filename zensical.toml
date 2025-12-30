@@ -3,6 +3,8 @@ site_name = "John Wegis"
 site_description = "John Wegis personal site"
 
 
+extra_css = ["stylesheets/extra.css"]
+
 site_author = "John Wegis"
 site_url = "https://jwegis.github.io/"
 copyright = """
@@ -59,5 +61,6 @@ icon = "fontawesome/brands/x-twitter"
 link = "https://x.com/jwegis"
 
 [project.extra]
+
 "google-site-verification" = "_BIy8QpJJf8DLDTSrlUcxrirTyMfpNAVcjXreBb62Rw"
 generator = false
