@@ -30,6 +30,7 @@ features = [
 
 [project.theme]
 favicon = "assets/images/favicon.svg"
+logo = "assets/images/logo.svg"
 
 [[project.theme.palette]]
 scheme = "default"
