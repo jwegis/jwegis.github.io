@@ -60,7 +60,5 @@ link = "https://www.linkedin.com/in/jwegis"
 icon = "fontawesome/brands/x-twitter"
 link = "https://x.com/jwegis"
 
-[project.extra]
-
 "google-site-verification" = "_BIy8QpJJf8DLDTSrlUcxrirTyMfpNAVcjXreBb62Rw"
 generator = false
