@@ -7,11 +7,11 @@
     --md-accent-fg-color: #AB4E52;
     /* Redwood */
 
-    /* Backgrounds: Remove White, use "Fog" */
-    --md-default-bg-color: #F3F6F8 !important;
-    /* Light Fog */
-    --md-code-bg-color: #E8ECEF !important;
-    /* Slightly darker fog for code blocks */
+    /* Backgrounds: Remove White, use "Humboldt Fog" */
+    --md-default-bg-color: #D8E0E4 !important;
+    /* Balanced Fog Grey */
+    --md-code-bg-color: #C8D0D4 !important;
+    /* Slightly darker code block */
 
     /* Force Header and Footer to be Lighter Humboldt Green */
     --md-header-bg-color: #448F7F !important;
