@@ -5,8 +5,6 @@ hide:
 
 # [john wegis]
 
-<div class="grid cards" markdown>
-
 -   :fontawesome-brands-github: **GitHub**
     [jwegis](https://github.com/jwegis)
 
@@ -15,5 +13,3 @@ hide:
 
 -   :fontawesome-brands-twitter: **Twitter**
     [jwegis](https://twitter.com/jwegis)
-
-</div>
