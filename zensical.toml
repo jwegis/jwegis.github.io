@@ -45,9 +45,7 @@ scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
 
-[project.analytics]
-provider = "google"
-property = "UA-322470-35"
+
 
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
