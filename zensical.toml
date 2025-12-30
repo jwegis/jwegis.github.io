@@ -55,8 +55,8 @@ icon = "fontawesome/brands/linkedin"
 link = "https://www.linkedin.com/in/jwegis"
 
 [[project.extra.social]]
-icon = "fontawesome/brands/twitter"
-link = "https://twitter.com/jwegis"
+icon = "fontawesome/brands/x-twitter"
+link = "https://x.com/jwegis"
 
 [project.extra]
 "google-site-verification" = "_BIy8QpJJf8DLDTSrlUcxrirTyMfpNAVcjXreBb62Rw"
