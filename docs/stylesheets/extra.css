@@ -1,7 +1,33 @@
 /* Humboldt County Redwoods Theme */
-:root > * {
-    --md-primary-fg-color:        #1F6357; /* Humboldt Green */
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color: #1F6357;
+    /* Humboldt Green */
     --md-primary-fg-color--light: #448F7F;
-    --md-primary-fg-color--dark:  #14423A;
-    --md-accent-fg-color:         #AB4E52; /* Redwood */
+    --md-primary-fg-color--dark: #14423A;
+    --md-accent-fg-color: #AB4E52;
+    /* Redwood */
+
+    /* Backgrounds: Remove White, use "Fog" */
+    --md-default-bg-color: #F3F6F8 !important;
+    /* Light Fog */
+    --md-code-bg-color: #E8ECEF !important;
+    /* Slightly darker fog for code blocks */
+
+    /* Force Header and Footer to be Lighter Humboldt Green */
+    --md-header-bg-color: #448F7F !important;
+    --md-footer-bg-color: #448F7F !important;
+}
+
+/* Specific component overrides with !important to ensure application */
+body,
+[data-md-color-scheme="default"] .md-main {
+    background-color: var(--md-default-bg-color) !important;
+}
+
+[data-md-color-scheme="default"] .md-header {
+    background-color: var(--md-header-bg-color) !important;
+}
+
+[data-md-color-scheme="default"] .md-footer {
+    background-color: var(--md-footer-bg-color) !important;
 }
