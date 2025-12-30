@@ -33,6 +33,7 @@ features = [
 [project.theme]
 favicon = "assets/images/favicon.svg"
 logo = "assets/images/logo.svg"
+custom_dir = "overrides"
 
 [[project.theme.palette]]
 scheme = "default"
