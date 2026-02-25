@@ -3,3 +3,15 @@ site/
 __pycache__/
 .DS_Store
 todo-list.md
+
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+*.credential*
+*secret*
+local.properties
